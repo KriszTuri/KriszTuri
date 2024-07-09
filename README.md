@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Krisz 👋
 
+I'm a junior software developer, always hungry for experience and new knowledge, with a dash of creativity and a passion for technology. 
+I worked as a web developer previously, hence why I enjoy working with React and TypeScript the most. 
+One of my dearest dream is to create a unique visual novel some time in the future. 
+
+- 🔭 I’m currently working on [Project Greenhouse](https://github.com/KriszTuri/project-greenhouse)
+
+- 🌱 I’m currently learning React
+  
+- 😄 Pronouns: he/him
 <!--
 **KriszTuri/KriszTuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
